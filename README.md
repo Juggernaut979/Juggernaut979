@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juggernaut979
-- 👀 I’m interested in Web development and Software Engineering
-- 🌱 I’m currently learning to become a Full-stack developer
+- 👀 I’m interested in Cybersecurity, Web development and Software Engineering
+- 🌱 I’m currently learning to become a Cybersecurity professional
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
